@@ -1,0 +1,129 @@
+.texte {
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.textecarte {
+	font-size: 7px;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a.lien:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lien:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lien:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #1874B7;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lien:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #1874B7;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+a.lienmenu:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lienmenu:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lienmenu:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #1874B7;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lienmenu:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #1874B7;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+a.lienmenu2:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lienmenu2:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lienmenu2:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #1874B7;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.lienmenu2:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	color: #1874B7;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
