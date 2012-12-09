@@ -10,4 +10,4 @@ Un jeu java que j'ai réalisé quand pendant mes études.
 
 <b>Attention!</b> Il s'agissait de mon premier jeu standalone et de mon premier programme en Java.
 
-Le code est là pour les curieux, mais si je devais le refaire aujourd'hui je modifierai totalement la structure (et de toutes façon, je n'utiliserai pas java :)).
+Le code est là pour les curieux, mais si je devais le refaire aujourd'hui je modifierais totalement la structure (et de toutes façon, je n'utiliserai pas java :)).
