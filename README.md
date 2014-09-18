@@ -6,7 +6,7 @@ Le jeu propose un univers original et un scénario développé en 20 niveaux d'u
 
 # A propos du code
 
-Un jeu java que j'ai réalisé quand pendant mes études.
+Un jeu java que j'ai réalisé pendant mes études.
 
 <b>Attention !</b> Il s'agissait de mon premier jeu standalone et de mon premier programme en Java.
 
